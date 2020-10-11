@@ -1,0 +1,21 @@
+{
+  "name": "alpakarosa/alpakas-framework",
+  "description": "Framework Básico em PHP para Diversas Aplicações.",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Davi Lhlapak Rosa",
+      "email": "davilhlapak@hotmail.com",
+      "homepage": "https://www.davilhlapak.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "AlpakaRosa\\Core\\": "core"
+    }
+  }
+}
